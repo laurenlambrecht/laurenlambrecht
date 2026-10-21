@@ -6,7 +6,7 @@ Previously, I worked as a Product Management Intern at **Samba TV** in San Franc
 
 Currently, I am working on a passion project called **GoodGames**, a platform designed to connect people through pickup sports by making it easier to discover local games, organize matches, and build communities around shared interests in sports and fitness.
 
-I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. <I love working with data and using that feedback to inform product decisions and strategy.>
+I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. I love working with data and using that feedback to inform product decisions and strategy.
 
 ### What I'm Working On
 - **GoodGame:** Developing a mobile app for organizing and discovering pickup sports.
