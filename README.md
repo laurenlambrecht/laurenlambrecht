@@ -12,4 +12,4 @@ I'm particularly interested in developing consumer-facing products, exploring em
 - **AI Applications:** Building projects involving LLMs, document processing, and software prototyping.
 
 ### Let's Connect!
-[LinkedIn](www.linkedin.com/in/lauren-lambrecht01) | [GitHub](https://github.com/laurenlambrecht)
+[LinkedIn](https://www.linkedin.com/in/lauren-lambrecht01) | [GitHub](https://github.com/laurenlambrecht)
