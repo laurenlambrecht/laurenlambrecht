@@ -24,4 +24,4 @@ I'm particularly interested in developing consumer-facing products, exploring em
 
 
 ### Let's Connect!
-Porfolio: [Portfolio](https://laurenlambrecht.github.io/MyPortfolio/) | [LinkedIn](https://www.linkedin.com/in/lauren-lambrecht01) | 
+Porfolio: [Portfolio](https://laurenlambrecht.github.io/MyPortfolio/) | [LinkedIn](https://www.linkedin.com/in/lauren-lambrecht01) 
