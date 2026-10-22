@@ -4,7 +4,7 @@ I'm a senior at **Claremont McKenna College** interested in **product management
 
 Previously, I worked as a Product Management Intern at **Samba TV** in San Francisco, where I built and tested four functional mobile app prototypes using Claude Code, Firebase, and Databricks.
 
-Currently, I am working on a passion project called **GoodGames**, a platform designed to connect people through pickup sports by making it easier to discover local games, organize matches, and build communities around shared interests in sports and fitness.
+Currently, I am working on a passion project called **GoodGame**, a platform designed to connect people through pickup sports by making it easier to discover local games, organize matches, and build communities around shared interests in sports and fitness.
 
 I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. I love working with data and using that feedback to inform product decisions and strategy.
 
