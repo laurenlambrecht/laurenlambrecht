@@ -8,10 +8,16 @@ Currently, I am working on a passion project called **GoodGames**, a platform de
 
 I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. I love working with data and using that feedback to inform product decisions and strategy.
 
-### What I'm Working On
-- **GoodGame:** Developing a mobile app/website for organizing pickup/intramural sports games across different cities.
-- **Sports Fan Engagement Dashboard:** Exploring audience engagement trends through Python and data visualization.
-- **AI Applications:** Building projects involving LLMs, document processing, and software prototyping.
+
+### What I've Built & What I'm Building
+
+- **GoodGame:** A mobile app and website designed to connect recreational athletes, organize local pickup games, and make sports more accessible across communities.
+- **Sports Fan Engagement Dashboard:** A Python-based data analytics project exploring how team performance, game timing, and key sporting events influence audience engagement.
+- **CursorPlay2:** An interactive jungle-themed brick-breaker game exploring browser-based game development, creative interface design, and arcade mechanics.
+- **Claremont Columns:** A digital platform designed to help students discover, explore, and engage with content relevant to the Claremont Colleges community.
+- **AI Applications:** Exploring practical applications of large language models, document processing, and AI-assisted software development through hands-on prototypes.
+
+
 
 ### Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/lauren-lambrecht01) | [GitHub](https://github.com/laurenlambrecht)
