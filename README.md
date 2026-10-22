@@ -9,13 +9,17 @@ Currently, I am working on a passion project called **GoodGames**, a platform de
 I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. I love working with data and using that feedback to inform product decisions and strategy.
 
 
+
 ### What I've Built & What I'm Building
 
-- **GoodGame:** A mobile app and website designed to connect recreational athletes, organize local pickup games, and make sports more accessible across communities.
-- **Sports Fan Engagement Dashboard:** A Python-based data analytics project exploring how team performance, game timing, and key sporting events influence audience engagement.
-- **CursorPlay2:** An interactive jungle-themed brick-breaker game exploring browser-based game development, creative interface design, and arcade mechanics.
-- **Claremont Columns:** A digital platform designed to help students discover, explore, and engage with content relevant to the Claremont Colleges community.
-- **AI Applications:** Exploring practical applications of large language models, document processing, and AI-assisted software development through hands-on prototypes.
+- **[GoodGame](https://github.com/laurenlambrecht/Goodgame-app):** A mobile app and website designed to connect recreational athletes, organize local pickup games, and make sports more accessible across communities.
+- **[Sports Fan Engagement Dashboard](https://github.com/laurenlambrecht/Sports-Fan-Engagement-Dashboard):** A Python-based analytics project exploring how team performance, game timing, and key sporting events influence audience engagement.
+- **[Hiki Grids](https://github.com/laurenlambrecht/HikiGrids):** A collaborative product prototype using interactive 2×2 matrices to help users organize, compare, and evaluate information visually.
+- **[Hiki Infinite Zoom](https://github.com/laurenlambrecht/HikiZoomArt):** An interactive social discovery prototype exploring how shared interests and personality traits can create more meaningful connections through an infinite-zoom interface.
+- **[MassBids Demo](https://github.com/laurenlambrecht/MassBids-Demo):** An interactive procurement platform demo showcasing bidding workflows, opportunity discovery, and intuitive product navigation.
+- **[Claremont Columns](https://github.com/laurenlambrecht/ClaremontColumns_HCD):** A digital platform designed to help students discover and engage with content relevant to the Claremont Colleges community.
+- **[CursorPlay2](https://github.com/laurenlambrecht/CursorPlay2):** A jungle-themed brick-breaker game exploring interactive programming, game mechanics, and creative interface design.
+- **AI & LLM Applications:** Exploring document processing, large language models, and AI-assisted software development through technical projects and prototypes.
 
 
 
