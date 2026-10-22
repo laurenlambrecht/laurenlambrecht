@@ -9,7 +9,7 @@ Currently, I am working on a passion project called **GoodGames**, a platform de
 I'm particularly interested in developing consumer-facing products, exploring emerging technologies, and translating user insights into meaningful product decisions. I love working with data and using that feedback to inform product decisions and strategy.
 
 ### What I'm Working On
-- **GoodGame:** Developing a mobile app for organizing and discovering pickup sports.
+- **GoodGame:** Developing a mobile app/website for organizing pickup/intramural sports games across different cities.
 - **Sports Fan Engagement Dashboard:** Exploring audience engagement trends through Python and data visualization.
 - **AI Applications:** Building projects involving LLMs, document processing, and software prototyping.
 
