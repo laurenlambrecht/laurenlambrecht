@@ -13,7 +13,7 @@ I'm particularly interested in developing consumer-facing products, exploring em
 ### What I've Built & What I'm Building
 
 - **[GoodGame](https://github.com/laurenlambrecht/Goodgame-app):** A mobile app and website designed to connect recreational athletes, organize local pickup games, and make sports more accessible across communities.
-- **[Sports Fan Engagement Dashboard](https://github.com/laurenlambrecht/Sports-Fan-Engagement-Dashboard):** A Python-based analytics project exploring how team performance, game timing, and key sporting events influence audience engagement.
+- **[Sports Fan Engagement Dashboard](https://github.com/laurenlambrecht/Sports-Fan-Engagement-Dashboard):** A Python-based analysis of NFL search-interest trends, extended into **[FanSignal](https://laurenlambrecht.github.io/Sports-Fan-Engagement-Dashboard/fansignal/)**, a B2B web prototype that helps sports teams translate audience signals into marketing insights and campaign recommendations.
 - **[Hiki Grids](https://github.com/laurenlambrecht/HikiGrids):** A collaborative product prototype using interactive 2×2 matrices to help users organize, compare, and evaluate information visually.
 - **[Hiki Infinite Zoom](https://github.com/laurenlambrecht/HikiZoomArt):** An interactive social discovery prototype exploring how shared interests and personality traits can create more meaningful connections through an infinite-zoom interface.
 - **[MassBids Demo](https://github.com/laurenlambrecht/MassBids-Demo):** An interactive procurement platform demo showcasing bidding workflows, opportunity discovery, and intuitive product navigation.
